@@ -98,3 +98,9 @@ HelloWorld
 HelloWorld.getMessage.call()
 ```
 
+
+## MEMO
+* HelloWorldまでやった
+* Gethでプライベートネットワークを起動し、トランザクションの登録をして実行まで
+* あとでしっかり勉強する
+
