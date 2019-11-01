@@ -1,5 +1,3 @@
-# practice_solidity
-
 # install
 
 * install geth
